@@ -1,1 +1,1 @@
-# AES_algorithm_parallelization
+# DES_algorithm_parallelization
